@@ -1,0 +1,12 @@
+SLO fundus image of a patient with the following conditions: non-glaucoma
+SLO fundus image of a patient with the following conditions: glaucoma
+SLO fundus image of a patient with the following conditions: normal vision
+SLO fundus image of a patient with the following conditions: mild vision loss
+SLO fundus image of a patient with the following conditions: moderate vision loss
+SLO fundus image of a patient with the following conditions: severe vision loss
+SLO fundus image of a patient with the following conditions: normal cup-disc ratio
+SLO fundus image of a patient with the following conditions: borderline cup-disc ratio
+SLO fundus image of a patient with the following conditions: abnormal cup-disc ratio
+SLO fundus image of a patient with the following conditions: hyperopia
+SLO fundus image of a patient with the following conditions: emmetropia
+SLO fundus image of a patient with the following conditions: myopia
